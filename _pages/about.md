@@ -17,6 +17,7 @@ Currently, most of my time is invested in research centered on **Multimodal Coll
 
 Date | News
 -----|-------
+2025-08-22 | One paper accepted at EMNLP Findings 2025!
 2025-08-16 | Awarded the <a href="https://aisingapore.org/research/dso-aisg-research-awards/" target="_blank">DSO-AISG Incentive Program</a> to support fundamental research on Multimodal LLMs!
 2025-07-01 | Achieved **1st Runner Up** in the <a href="https://learn.aisingapore.org/national-ai-student-challenge-2025/" target="_blank">National AI Student Challenge (TikTok)</a> for short-form video understanding with Large Multimodal Models.
 2025-06-15 | Placed on the <a href="Attachments/Honours_List_2024.pdf" target="_blank">Honours List 2024</a>, awarded to students who achieve outstanding term results. ~**top 10% of the cohort**
