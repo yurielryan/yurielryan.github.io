@@ -6,6 +6,7 @@ permalink: /portfolio/ant
 date: 2025-05-29
 ---
 
+[\[Project GitHub\]](https://github.com/SausageMuffins/LMM-Video-Understanding)
 
 ![Overall Framework](<../images/Tiktok Solution Architecture.png>)
 

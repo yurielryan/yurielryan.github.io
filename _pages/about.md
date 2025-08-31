@@ -17,9 +17,9 @@ Currently, most of my time is invested in research centered on **Multimodal Coll
 
 Date | News
 -----|-------
-2025-08-22 | One paper accepted at EMNLP Findings 2025!
+2025-08-22 | One paper accepted to EMNLP (Findings) 2025! Link to the paper soon!
 2025-08-16 | Awarded the <a href="https://aisingapore.org/research/dso-aisg-research-awards/" target="_blank">DSO-AISG Incentive Program</a> to support fundamental research on Multimodal LLMs!
-2025-07-01 | Achieved **1st Runner Up** in the <a href="https://learn.aisingapore.org/national-ai-student-challenge-2025/" target="_blank">National AI Student Challenge (TikTok)</a> for short-form video understanding with Large Multimodal Models.
+2025-07-01 | Achieved **1st Runner Up** in the <a href="https://learn.aisingapore.org/national-ai-student-challenge-2025/" target="_blank">National AI Student Challenge (TikTok)</a> for short-form video understanding with Large Multimodal Models. [\[Github\]](https://github.com/SausageMuffins/LMM-Video-Understanding)
 2025-06-15 | Placed on the <a href="Attachments/Honours_List_2024.pdf" target="_blank">Honours List 2024</a>, awarded to students who achieve outstanding term results. ~**top 10% of the cohort**
 2024-09-01 | Awarded the <a href="https://aisingapore.org/research/ai-amp/" target="_blank">AI Singapore Accelerated Masters Scholarship</a> for fundamental AI research talent in Singapore. **1 of 4 recipients (2024)**
 2024-03-15 | Received the <a href="https://www.sutd.edu.sg/Student-Development/Global/Scholarships-and-Awards/KKH-SUTD-Exchange-Award" target="_blank">KKH Global Exchange Award (Spring 2024)</a> for academic excellence and active co-curricular participation to support my exchange studies at Aalto University.
