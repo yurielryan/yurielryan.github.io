@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision for Posture"
-excerpt: "A computer vision project using BlazePose and CBAM to improve human posture estimation. <br/><a href='/files/Project_BlazePose.pdf' target='_blank'>[Project Report]</a> <a href='https://github.com/SausageMuffins/No-Pain-Just-Gains/tree/main' target='_blank'>[GitHub]</a>"
+excerpt: "A computer vision project using BlazePose and CBAM to improve human posture estimation. <br/><a href='/files/Project_BlazePose.pdf' target='_blank'>[Project Report]</a> <a href='https://github.com/yurielryan/No-Pain-Just-Gains/tree/main' target='_blank'>[GitHub]</a>"
 collection: portfolio
 permalink: /portfolio/computer-vision-posture
 date: 2024-12-15
