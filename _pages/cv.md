@@ -14,16 +14,16 @@ redirect_from:
 
 Education
 ======
-**MEng** (Research) <br>
+**M.Eng** (Research) <br>
 *Singapore University of Technology and Design* <br>
 Expected 2025 Sep to 2026 Sep 
-- Cumulative GPA: -, -
+- Cumulative GPA: 5.00/5.00
 - **AI Singapore Accelerated Masters Scholar** (2024 Sep - 2026 Sep)
-- Thesis-based research program
+- **DSO-AISG Research Award** (2025 Sep - 2026 Sep)
 
 ---
 
-**BEng** (Computer Science, Minor in AI) <br>
+**B.Eng** (Computer Science, Minor in AI) <br>
 *Singapore University of Technology and Design* <br>
 2021 Sep to 2025 May
 - Cumulative GPA: 4.70/5.00, **Honors with Highest Distinction**
@@ -41,8 +41,9 @@ Finland, Jan 2024 to Jun 2025
 
 Relevant Courses | Grade 
 -----------------|------
+99.512 Mathematics for AI – Postgraduate | A
 51.504 Machine Learning – Postgraduate | A
-50.050 Discrete Math and Algorithm Design | A
+50.050 Discrete Mathematics and Algorithm Design | A
 50.035 Computer Vision | A
 50.007 Machine Learning - Undergraduate | A
 50.005 Elements of Software Construction | A-
@@ -58,7 +59,7 @@ Work Experience
 ======
 
 
-### Founding AI Engineer, Check (Iterative W25)
+### Founding AI Engineer, Pallo (formerly Check) (Iterative W25)
 2025 January – March
 - Built a Retrieval Augmented Generation (RAG) workflow to produce syllabus-accurate outputs, securing a Pre-Seed fund from Iterative VC (Winter 2025).
 - Built a data processing pipeline by combining open-source Computer Vision models with LLMs, contributing 8,700 high quality questions to Supabase for RAG.
