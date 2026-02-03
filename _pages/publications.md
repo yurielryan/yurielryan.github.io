@@ -10,10 +10,17 @@ author_profile: true
 {% include toc %}
 
 # Research Interests
-I center my work on **Multimodal Collaborative AI**: intelligent systems that use different types of information to collaborate with humans and non-humans to achieve shared goals. **Multimodal** because of how we naturally perceive and interact with our world using different modes of information (our five senses: sight, hearing, smell, taste and touch). **Collaborative** because I aspire to develop (socially) intelligent systems that work together with us, the humans, and also with non-humans like other agents, systems or even animals/pets to achieve shared goals.
+## Motivations
+My research is driven by the goal of collaborative AI---to attain a symbiosis where humans and AI continuously improve or augment one another in a positive feedback loop. To establish this loop, I believe that artificial intelligence must possess **social intelligence** to communicate effectively with humans, and **possess the ability to comprehend emergent knowledge** as the context evolves.
 
-## Current Work
-Within this broad theme of Collaborative AI, I try to work on two fundamental challenges: Representation and Quantification. These two fields are quintessential in multimodal machine learning to enable downstream collaborative tasks. 
+Current models exhibit an "intelligence" that appears to meet these needs, but this capability often stems from [scaling compute, data, and parameters](https://openai.com/index/scaling-laws-for-neural-language-models/). This approach is not only inefficient (relative to how humans learn), but it also promotes a black-box paradigm that discourages scientific methods. As such, I try to move beyond simply "scaling" anything and everything and work towards a more mechanistic understanding of how concepts (and by extension, intelligence) emerge; this usually involve tuning one "knob" while holding others constant to isolate specific causes and effects. 
+
+As such, my long term vision is to develop **systematic approaches to represent emergent knowledge and phenomena** within or outside of the AI field. In doing so, I hope to establish a reliable positive feedback loop in the human-AI symbiosis to progress both artifical intelligence *and* humans.
+
+## Current Interests
+I enjoy bridging theories from outside machine learning---such as information theory (if we can even call this outside of ML...), the social sciences, or even philosophy---to construct rigorous hypotheses. The long-term vision is to develop AI that comprehends abstract concepts: **understanding emergent ideas** like humor; **considering emergent attributes** like data quality; and **managing emergent behaviors/properties** like hallucinations or robustness.
+
+My latest work utilizes the Partial Information Decomposition (PID) framework (from information theory) to analyze multimodal data. This allows me to derive insights from how modalities interact---redundant interactions (overlapping information), unique interactions (exclusive information), synergistic interactions (emergent information)---to provide task-relevant information. From these insights, I hypothesize and test how tuning these interactions, specifically increasing redundant interactions, would affect robustness.
 
 
 ## Intrigued but Unavailable
@@ -24,7 +31,7 @@ Beyond the "5 love languages" (acts of service, quality time, gifts, touch, and 
 
 - Can models learn "love languages" and adapt that knowledge to different cultures (East vs West).
 - Can we quantify romance? What makes a love letter romantic?
-- Can a model, trained on being an expert in romance (lol), counter love scams: a type of scam that is not only <a href="https://www.dbs.com/livemore/money/types-of-scams-singapore.html" target="_blank">common</a> in Singapore, but also painful financially and emotionally? 
+- Can a model, trained on being an expert in romance, counter love scams: a type of scam that is not only <a href="https://www.dbs.com/livemore/money/types-of-scams-singapore.html" target="_blank">common</a> in Singapore, but also painful financially and emotionally? 
 
 <br>
 

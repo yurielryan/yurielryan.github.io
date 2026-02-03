@@ -49,7 +49,66 @@ layout: default
 
         {% if page.citation %}
           <p style="font-size: smaller; margin-bottom: 0.25em;">Recommended citation:</p>
-          <pre class="citation-bibtex"><code class="language-bibtex">{{ page.citation | escape }}</code></pre>
+          <pre id="citation-bibtex" class="citation-bibtex"><code class="language-bibtex">{{ page.citation | escape }}</code></pre>
+          <div class="citation-actions">
+            <button type="button" class="btn btn--small citation-copy-btn" data-copy-target="citation-bibtex">Copy BibTeX</button>
+            <span class="citation-copy-status" aria-live="polite"></span>
+          </div>
+          <script>
+            (function () {
+              function setStatus(statusEl, message) {
+                if (!statusEl) return;
+                statusEl.textContent = message;
+                if (message) {
+                  window.setTimeout(function () {
+                    statusEl.textContent = '';
+                  }, 2000);
+                }
+              }
+
+              function copyText(text) {
+                if (navigator.clipboard && navigator.clipboard.writeText) {
+                  return navigator.clipboard.writeText(text);
+                }
+                var textarea = document.createElement('textarea');
+                textarea.value = text;
+                textarea.setAttribute('readonly', '');
+                textarea.style.position = 'absolute';
+                textarea.style.left = '-9999px';
+                document.body.appendChild(textarea);
+                textarea.select();
+                try {
+                  document.execCommand('copy');
+                } finally {
+                  document.body.removeChild(textarea);
+                }
+                return Promise.resolve();
+              }
+
+              function bindCopyButtons() {
+                var buttons = document.querySelectorAll('.citation-copy-btn');
+                if (!buttons.length) return;
+                buttons.forEach(function (button) {
+                  var status = button.parentElement.querySelector('.citation-copy-status');
+                  var targetId = button.getAttribute('data-copy-target');
+                  var target = document.getElementById(targetId);
+                  if (!target) return;
+                  button.addEventListener('click', function () {
+                    var text = target.innerText || target.textContent || '';
+                    copyText(text)
+                      .then(function () { setStatus(status, 'Copied!'); })
+                      .catch(function () { setStatus(status, 'Copy failed'); });
+                  });
+                });
+              }
+
+              if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', bindCopyButtons);
+              } else {
+                bindCopyButtons();
+              }
+            })();
+          </script>
         {% endif %}
 
         {% if page.paperurl or page.slidesurl or page.bibtexurl %}

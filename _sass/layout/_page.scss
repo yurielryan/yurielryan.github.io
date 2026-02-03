@@ -105,6 +105,18 @@
     line-height: 1.4;
   }
 
+  .citation-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .citation-copy-status {
+    font-size: $type-size-6;
+    color: var(--global-text-color-light);
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is Yuriel (or Ryan if your prefer) and I am a M.Eng student at the Singapore University of Technology and Design, kindly supported by the [AI Singapore Accelerated Masters Program](https://aisingapore.org/research/ai-amp/) and the [DSO-AISG Research Award](https://aisingapore.org/research/dso-aisg-research-awards/). I go by "Yuriel Ryan" in my publications.
 
-Currently, I primarily focus on fundamental **Multimodal AI** research. My interests lie in developing systematic approaches to analyze **emergent phenomena** in large models: emergent concepts such as humor; emergent attributes such as data quality; and emergent behaviours/properties such as hallucinations or robustness. This means using theoretical frameworks, such as those from information theory, to construct my hypotheses and experiments. 
+Currently, I primarily focus on fundamental **Multimodal ML** research. My interests lie in developing systematic approaches to represent **emergent phenomena or knowledge** in large models: emergent concepts such as humor; emergent attributes such as data quality; and emergent behaviours/properties such as hallucinations or robustness. This means using theoretical frameworks, such as those from information theory, to construct my hypotheses and experiments. 
 
 I try my best to aim for more rigorous "good science" to achieve actionable findings instead of chasing whatever that is popular in the AI space---this seems to change every couple of weeks anyways. If this research philosophy resonates with you, let's work on something together! :)
 
