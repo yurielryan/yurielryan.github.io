@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yuriel (or Ryan, if you prefer), an M.Eng (Research) student at the Singapore University of Technology and Design, supported by the [AI Singapore Accelerated Masters Scholarship](https://aisingapore.org/research/ai-amp/) and the [DSO-AISG Research Award](https://aisingapore.org/research/dso-aisg-research-awards/). I publish as "Yuriel Ryan."
+Hi! I'm Yuriel (or Ryan, if you prefer), a M.Eng (Research) student at the Singapore University of Technology and Design, supported by the [AI Singapore Accelerated Masters Scholarship](https://aisingapore.org/research/ai-amp/) and the [DSO-AISG Research Award](https://aisingapore.org/research/dso-aisg-research-awards/). I publish as "Yuriel Ryan."
 
 
 # Research Interests

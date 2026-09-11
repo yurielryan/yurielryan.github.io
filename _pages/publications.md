@@ -11,7 +11,7 @@ toc: true
 # Motivations
 My research is driven by the goal of **Collaborative AI** --- a deliberate push to have humans and AI continuously augment each other in a positive feedback loop. To establish this, I believe that artificial intelligence should be able to **continuously adapt or evolve** to humans or to the problem at hand. This means possessing qualities that go beyond rote learning (e.g., social intelligence or autonomy to propose tasks to learn on its own).
 
-Current models exhibit an "intelligence" that appears to meet these needs, but this capability often stems from [scaling compute, data, and parameters](https://openai.com/index/scaling-laws-for-neural-language-models/). This approach is not only inefficient (relative to how humans learn), but also promotes a black-box paradigm that discourages scientific methods. For these reasons, I try to move beyond simply scaling anything and everything, and work towards a more mechanistic understanding of how concepts --- and by extension, intelligence --- emerge; this usually involves tuning one "knob" while holding others constant to isolate specific causes and effects.
+Current models exhibit an "intelligence" that appears to meet these needs, but this capability often stems from [scaling compute, data, and parameters](https://openai.com/index/scaling-laws-for-neural-language-models/). This approach is not only inefficient (relative to how humans learn), but also promotes a black-box paradigm that discourages scientific methods. For these reasons, I try to move beyond simply scaling anything and everything, and work towards a more principled understanding of how concepts --- and by extension, intelligence --- emerge; this usually involves adapting a theoretical framework and/or tuning one "knob" while holding others constant to isolate specific causes and effects.
 
 I also think this human-AI symbiosis could manifest as a form of **Collective Intelligence**: humans and agents (or even between clusters of each side) exchanging what they know for the collective to benefit. To this end, I am looking to work on self/co-evolving agents (as a prospective PhD student) through the different lenses of **Information Theory**. For example, this could involve modelling a multi-agent system as communication channels (e.g., how much of the task-relevant signal is preserved/faithful when information flows from one agent to another) or considering what is accessible or useful information to an agent (e.g., V-Information or PID).
 
@@ -28,10 +28,10 @@ My [latest work](https://icml.cc/virtual/2026/poster/61360) utilizes the Partial
 
 ---
 
-# Publications
+# Selected Publications
 
 {% if site.author.googlescholar %}
-You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+You can also find the updated articles on [my Google Scholar]({{ site.author.googlescholar }}).
 {% endif %}
 
 <!-- New style rendering if publication categories are defined -->
