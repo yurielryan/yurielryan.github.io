@@ -23,6 +23,11 @@
 #                     emnlp today). An abbreviation with no token of its own
 #                     still styles: .pub-tag's --tag-default carries it.
 
+- date: "2026-10-02"
+  tag: ICML
+  text: >-
+    Started by RA-ship at NUS!
+
 - date: "2026-06-02"
   tag: ICML
   text: >-
