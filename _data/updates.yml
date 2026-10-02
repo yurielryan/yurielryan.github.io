@@ -1,5 +1,5 @@
 # Home page "Updates!" list. Rendered by _includes/updates.html, which
-# _pages/about.md pulls in with {% include updates.html show=4 %}.
+# _pages/about.md pulls in with {% include updates.html show=5 %}.
 #
 # ORDER IS AUTHORED: newest first. The include shows the first `show` entries
 # (default 4) and folds everything after them into a <details>, so a new entry
@@ -26,6 +26,11 @@
 - date: "2026-10-02"
   text: >-
     Started by RA-ship at NUS!
+
+- date: "2026-09-30"
+  tag: NeurIPS
+  text: >-
+    One (sole-authored) paper accepted to **NeurIPS (Workshop Interpretability as a Science)** 2026: [PID-Chain: Distinguishing Heuristics from Answers in Multimodal Sequential Targets](/publication/2026-09-05-PID-Chain)
 
 - date: "2026-06-02"
   tag: ICML
